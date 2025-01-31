@@ -1,0 +1,10 @@
+coordinates:
+  name: conda
+  namespace: linux-64
+  provider: anacaonda-main
+  type: conda
+revisions:
+  23.1.0-py311h06a4308_0:
+    licensed:
+      declared: ISC
+
